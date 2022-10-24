@@ -1,0 +1,17 @@
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\bin\Debug\net6.0-windows\Shutdown Timer GUI.exe
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\bin\Debug\net6.0-windows\Shutdown Timer GUI.deps.json
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\bin\Debug\net6.0-windows\Shutdown Timer GUI.runtimeconfig.json
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\bin\Debug\net6.0-windows\Shutdown Timer GUI.dll
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\bin\Debug\net6.0-windows\Shutdown Timer GUI.pdb
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\obj\Debug\net6.0-windows\Shutdown Timer GUI.csproj.AssemblyReference.cache
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\obj\Debug\net6.0-windows\Shutdown_Timer_GUI.MainWindow.resources
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\obj\Debug\net6.0-windows\Shutdown Timer GUI.csproj.GenerateResource.cache
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\obj\Debug\net6.0-windows\Shutdown Timer GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\obj\Debug\net6.0-windows\Shutdown Timer GUI.AssemblyInfoInputs.cache
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\obj\Debug\net6.0-windows\Shutdown Timer GUI.AssemblyInfo.cs
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\obj\Debug\net6.0-windows\Shutdown Timer GUI.csproj.CoreCompileInputs.cache
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\obj\Debug\net6.0-windows\Shutdown Timer GUI.dll
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\obj\Debug\net6.0-windows\refint\Shutdown Timer GUI.dll
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\obj\Debug\net6.0-windows\Shutdown Timer GUI.pdb
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\obj\Debug\net6.0-windows\Shutdown Timer GUI.genruntimeconfig.cache
+C:\Users\kicch\source\repos\Shutdown Timer GUI\Shutdown Timer GUI\obj\Debug\net6.0-windows\ref\Shutdown Timer GUI.dll
